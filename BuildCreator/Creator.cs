@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Less_4
 {
-    class Creator
+    public class Creator
     {
         private Creator()
         {
