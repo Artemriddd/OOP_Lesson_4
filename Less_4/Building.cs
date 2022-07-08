@@ -105,6 +105,13 @@ namespace Less_4
                 }
             }
         }
+
+        internal Building()
+        {
+
+        }
+
+
         /// <summary>
         /// Создает новый Id здания
         /// </summary>
